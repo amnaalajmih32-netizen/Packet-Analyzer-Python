@@ -1,0 +1,8 @@
+Total packets: 43
+
+Protocol counts:
+TCP: 41
+UDP: 2
+
+Most common source IP:
+[('145.254.160.237', 20)]
